@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # reeeeee
 
 # can you see me 
@@ -5,8 +6,12 @@
 # killll meeee
 
 # Hi
+=======
+# hi
 
-# Hello
+#tyring to get this to work
+>>>>>>> master
+
 
 # new branch
 
